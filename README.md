@@ -4,8 +4,7 @@
 Pequeno texto sobre Sustentabilidade Doméstica, com dicas para ter uma vida mais sustentável
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
-Grammarly
+ChatGPT e Grammarly
 
 ## 🧐 Processo de Criação
 Todo o processo de criação foi feito com IAs, o ChatGPT deu a ideia e criou o conteúdo, verifiquei a gramática com o Grammarly, e após as correções o ChatGPT transformou o texto em um arquivo pdf
